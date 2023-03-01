@@ -1,3 +1,3 @@
 # Test
 
-This is a test lol.
+This is a test lol!
